@@ -9,7 +9,8 @@ Fast shipping in Canada & USA! 🌟 Your go-to Korean products outlet for **COSR
 
 ## 📌 Skincare Consultation  
 Get a **15-minute** skincare consultation to find the best products for your skin.  
-🔗 [Book Here](https://www.mercelbay.com/appointments)  
+🔗 [Book Here](https://www.mercelbay.com/appointment/1?invite_token=602fb7825b54493c9e7d7433cbd78713&filter_appointment_type_ids=%5B1%5D&filter_staff_user_ids=%5B2%5D)
+
 
 ## 📦 Fast Shipping USA & Canada  
 Enjoy **quick & reliable delivery** across Canada and the USA!  
